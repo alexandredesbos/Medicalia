@@ -3,6 +3,7 @@ from transformers import pipeline
 
 # Chargement du modèle en local
 generator = pipeline("text-generation", model="ThxZ3US/medicalia")
+# generator = pipeline("text-generation", model="Alexossss/medicalia")
 
 
 def chat(message, chat_history):
