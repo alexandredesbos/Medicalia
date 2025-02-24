@@ -1,9 +1,9 @@
-# Projeet Medicalia
+# Projet Medicalia
 
 Groupe:
 
     - Alexandre Desbos
-    - Bapstiste Griva
+    - Baptiste Griva
 
 Medicalia est un modèle qui doit aider à la prédication maladie selon différents symptomes ou inversement. Nous avons utilisé le [dataset](https://huggingface.co/datasets/QuyenAnhDE/Diseases_Symptoms) qui contient des maladies avec pour chacune d'elles les symptomes associés et les traitements.
 
