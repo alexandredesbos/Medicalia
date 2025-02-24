@@ -15,6 +15,7 @@ Nous avons également fait varier les différents paramètres avant entrainement
 - Le learning rate qui influence grandement la convergence 
 - Le scheduler cosine pour assurer une descente progressive et naturelle du learning rate
 - Le warmup decay pour pénaliser plus ou moins les poids excessifs et éviter l'overfitting
+
 Le paramètre faisant varier la qualité du modèle de facon significative a été le learning rate.
 
 
