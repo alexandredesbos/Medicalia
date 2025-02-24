@@ -1,8 +1,10 @@
 import gradio as gr
 from transformers import pipeline
 
-# Chargement du modèle en local
+# Model 1
 generator = pipeline("text-generation", model="ThxZ3US/medicalia")
+
+# Model 2
 # generator = pipeline("text-generation", model="Alexossss/medicalia")
 
 
